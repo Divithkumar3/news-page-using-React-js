@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Divithkumar3/news-page-using-React-js/static/css/main.18d8e04f.css",
-    "main.js": "/Divithkumar3/news-page-using-React-js/static/js/main.2e6d09e8.js",
-    "static/media/video.mp4": "/Divithkumar3/news-page-using-React-js/static/media/video.29803fe5dffb7a691cc8.mp4",
-    "static/media/video2.mp4": "/Divithkumar3/news-page-using-React-js/static/media/video2.66de52642582adb75e2e.mp4",
-    "static/media/video3.mp4": "/Divithkumar3/news-page-using-React-js/static/media/video3.1043467f34718ca5febb.mp4",
-    "static/media/hockey.jpg": "/Divithkumar3/news-page-using-React-js/static/media/hockey.40d2845ae7033ed112ad.jpg",
-    "static/media/video5.mp4": "/Divithkumar3/news-page-using-React-js/static/media/video5.fe14430480a3a803203d.mp4",
-    "static/media/niraj.jpg": "/Divithkumar3/news-page-using-React-js/static/media/niraj.76954bcd33d80a348b4c.jpg",
-    "static/media/indiawinner24.jpg": "/Divithkumar3/news-page-using-React-js/static/media/indiawinner24.a098a153bbc268771068.jpg",
-    "static/media/manu.webp": "/Divithkumar3/news-page-using-React-js/static/media/manu.cb64b7e02730ece2a369.webp",
-    "static/media/video4.mp4": "/Divithkumar3/news-page-using-React-js/static/media/video4.7c05784bfaa2a4f8a8a4.mp4",
-    "static/media/sports.mp4": "/Divithkumar3/news-page-using-React-js/static/media/sports.e35e7329ba759133b7dc.mp4",
-    "static/media/HWP5.gif": "/Divithkumar3/news-page-using-React-js/static/media/HWP5.b420ca689c974aa85829.gif",
-    "static/media/images1.webp": "/Divithkumar3/news-page-using-React-js/static/media/images1.0af3728f95af7ed6063b.webp",
-    "static/media/logo.svg": "/Divithkumar3/news-page-using-React-js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Divithkumar3/news-page-using-React-js/index.html",
-    "main.18d8e04f.css.map": "/Divithkumar3/news-page-using-React-js/static/css/main.18d8e04f.css.map",
-    "main.2e6d09e8.js.map": "/Divithkumar3/news-page-using-React-js/static/js/main.2e6d09e8.js.map"
+    "main.css": "/news-page-using-React-js/static/css/main.18d8e04f.css",
+    "main.js": "/news-page-using-React-js/static/js/main.ea761120.js",
+    "static/media/video.mp4": "/news-page-using-React-js/static/media/video.29803fe5dffb7a691cc8.mp4",
+    "static/media/video2.mp4": "/news-page-using-React-js/static/media/video2.66de52642582adb75e2e.mp4",
+    "static/media/video3.mp4": "/news-page-using-React-js/static/media/video3.1043467f34718ca5febb.mp4",
+    "static/media/hockey.jpg": "/news-page-using-React-js/static/media/hockey.40d2845ae7033ed112ad.jpg",
+    "static/media/video5.mp4": "/news-page-using-React-js/static/media/video5.fe14430480a3a803203d.mp4",
+    "static/media/niraj.jpg": "/news-page-using-React-js/static/media/niraj.76954bcd33d80a348b4c.jpg",
+    "static/media/indiawinner24.jpg": "/news-page-using-React-js/static/media/indiawinner24.a098a153bbc268771068.jpg",
+    "static/media/manu.webp": "/news-page-using-React-js/static/media/manu.cb64b7e02730ece2a369.webp",
+    "static/media/video4.mp4": "/news-page-using-React-js/static/media/video4.7c05784bfaa2a4f8a8a4.mp4",
+    "static/media/sports.mp4": "/news-page-using-React-js/static/media/sports.e35e7329ba759133b7dc.mp4",
+    "static/media/HWP5.gif": "/news-page-using-React-js/static/media/HWP5.b420ca689c974aa85829.gif",
+    "static/media/images1.webp": "/news-page-using-React-js/static/media/images1.0af3728f95af7ed6063b.webp",
+    "static/media/logo.svg": "/news-page-using-React-js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/news-page-using-React-js/index.html",
+    "main.18d8e04f.css.map": "/news-page-using-React-js/static/css/main.18d8e04f.css.map",
+    "main.ea761120.js.map": "/news-page-using-React-js/static/js/main.ea761120.js.map"
   },
   "entrypoints": [
     "static/css/main.18d8e04f.css",
-    "static/js/main.2e6d09e8.js"
+    "static/js/main.ea761120.js"
   ]
 }
