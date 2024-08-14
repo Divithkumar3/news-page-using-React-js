@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.header{
+    display:flex;
+    justify-content: space-around;
+    top: 0px;
+    position: sticky;
+    background-color: rgb(81, 80, 80);
+    color: aliceblue;
+    height: 75px;
+    align-items: center;
+    font-size: 20px;
+    z-index: 1000;
+    
+    color: aliceblue;
+    font-size: 22px;
+    font-weight: 700;
+}
+.image2{
+    height: 80%;
+}
+.menu{
+    text-decoration: none; 
+    color: aliceblue; 
+}

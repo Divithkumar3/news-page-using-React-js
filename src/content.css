@@ -1,0 +1,46 @@
+.first{
+    width: 100%;
+    height: 500px;
+    
+    margin-left: 0px;
+}
+.c1{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    
+}
+.second{
+    width: 50%;
+    position: relative;
+    left: 400px;
+}
+.row{
+    display: flex;
+    justify-content: space-around   ;
+}
+video{
+    z-index: 500;
+}
+.manu{
+    width: 600px;
+    height: 600px;
+}
+.c2{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    background-color: red;
+    color: aliceblue;
+}
+.india{
+    position: relative;
+    left: 50px;
+}
+.niraj{
+    width: 100%;
+   
+}
+.hockey{
+    width: 100%;
+}
